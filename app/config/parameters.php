@@ -1,0 +1,25 @@
+<?php return array (
+  'parameters' => 
+  array (
+    'database_host' => '127.0.0.1',
+    'database_port' => '',
+    'database_name' => 'altapinta',
+    'database_user' => 'Juanjo',
+    'database_password' => 'Juanjo7z7uwu123.',
+    'database_prefix' => 'ps_',
+    'database_engine' => 'InnoDB',
+    'mailer_transport' => 'smtp',
+    'mailer_host' => '127.0.0.1',
+    'mailer_user' => NULL,
+    'mailer_password' => NULL,
+    'secret' => 'tm2r93y0Rf5APdegIELojxSYU7U1iZdOULQLA1APXhoJI9w9XYrMjYUozJ8PXYeW',
+    'ps_caching' => 'CacheMemcache',
+    'ps_cache_enable' => false,
+    'ps_creation_date' => '2023-06-06',
+    'locale' => 'es-ES',
+    'use_debug_toolbar' => true,
+    'cookie_key' => 'xnn2qysdjHw7FSjDnriqtfnD8mQNS1BM2RIgq0mvrjLOEfmcuoPFWX7nMLLzwNLP',
+    'cookie_iv' => 'OIV0YWxQaS02wSmPiBvSpjhpJHeowJdA',
+    'new_cookie_key' => 'def000008415013197f71d4888c957d955a554b3c19f5940c90bd1bd541648a26478eb0f740f18b433f4c3669416bd42f02cf0b04dbebd9ee17990f4db6d50e471e19eeb',
+  ),
+);
